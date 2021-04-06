@@ -1,0 +1,15 @@
+set nocompatible
+syntax on 
+set nu
+set belloff=all
+set backspace=indent,eol,start
+set smartindent
+set autoindent
+set expandtab
+set shiftwidth=4
+set tabstop=4
+set softtabstop=4
+set smarttab
+set smartcase
+set incsearch
+set nowrap
